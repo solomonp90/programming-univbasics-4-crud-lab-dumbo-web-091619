@@ -35,6 +35,9 @@ array[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-update_element_from_index[4]= 
+update_element_from_index[4]= "totally"
 end
+
+update_element_from_index
+
 #learn --fail-fast
