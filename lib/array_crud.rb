@@ -38,6 +38,4 @@ def update_element_from_index(array, index_number, element)
 array[4]= "totally"
 end
 
-
-
 #learn --fail-fast
